@@ -2,7 +2,8 @@
 
 Onyx is a high-performance, dark-themed, browser-based PDF editor designed for technical workflows and structured note-taking. Built with **React 19**, **TypeScript**, and **Tailwind CSS**, it features a sophisticated canvas engine that combines SVG graphics with rich text capabilities.
 
-![Onyx Editor Preview](Screenshot 2026-01-19 140627.png)
+![Onyx Editor Preview](
+<img src="Screenshot 2026-01-19 140627.png">
 
 ## 🚀 Key Features
 
